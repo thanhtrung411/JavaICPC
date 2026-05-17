@@ -1,0 +1,9 @@
+# JavaICPC app configuration example
+db.url=jdbc:sqlite:data/contest_judge_ai.db
+google.projectId=TODO_YOUR_GOOGLE_PROJECT_ID
+google.location=global
+google.authType=API Key
+google.credential=TODO_YOUR_GOOGLE_API_KEY
+ai.model=gemini-2.5-flash
+ai.maxTokens=16384
+ai.timeout=90

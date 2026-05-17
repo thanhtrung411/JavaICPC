@@ -1,0 +1,15 @@
+out/
+*.class
+
+data/contest_judge_ai.db
+data/vertex_raw_response.json
+data/*.db-journal
+
+*.log
+*.tmp
+.idea/
+*.iml
+
+service-account*.json
+*service*account*.json
+*.key
