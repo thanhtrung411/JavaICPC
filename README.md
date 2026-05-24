@@ -7,6 +7,7 @@ JavaICPC là chương trình Java có giao diện, kết nối CSDL SQLite và t
 Link public chứa mã nguồn, dữ liệu và tài nguyên của dự án:
 
 - Mã nguồn: https://github.com/thanhtrung411/JavaICPC.git
+- Dữ liệu mẫu: https://dutudn-my.sharepoint.com/:u:/g/personal/102240063_sv1_dut_udn_vn/IQDQBM9wfNdMR4bDVW6cku6dAVX-ifLIDZvaIMKB_ktc3Wc?e=5sOoye
 - Báo cáo Word: https://dutudn-my.sharepoint.com/:w:/g/personal/102240063_sv1_dut_udn_vn/IQDzerPpNIYxQoT9Q9LYlshqAZjUhR2HMwEQpA0ofZhNCKI
 
 ## Ghi chú
