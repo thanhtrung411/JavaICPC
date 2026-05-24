@@ -53,9 +53,3 @@ jdbc:sqlite:data/contest_judge_ai.db
    - Google Credential hoặc Service Account JSON
    - AI Model, ví dụ `gemini-2.5-flash`
 5. Bấm `Lưu cấu hình`.
-
-## Lưu ý khi đưa lên GitHub
-
-- Không commit `data/app.properties` nếu trong đó có API key, access token hoặc đường dẫn service account riêng.
-- Không commit file service account JSON thật.
-- Không commit thư mục `out/` vì đây là thư mục build tự sinh.
